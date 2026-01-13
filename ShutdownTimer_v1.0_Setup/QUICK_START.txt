@@ -1,0 +1,18 @@
+QUICK START GUIDE
+================
+
+1. Jalankan ShutdownTimer_Setup.exe
+2. Ikuti wizard instalasi
+3. Pilih lokasi instalasi atau gunakan default
+4. Klik Install
+5. Setelah selesai, buka Shutdown Timer dari Start Menu
+
+CARA MENGGUNAKAN:
+- Pilih menu [1] untuk set timer shutdown
+- Masukkan jam (0-23) dan menit (0-59)
+- Untuk membatalkan, pilih menu [2]
+
+SUPPORT:
+Baca README.md untuk informasi lengkap dan troubleshooting.
+
+Selamat menggunakan Shutdown Timer!
