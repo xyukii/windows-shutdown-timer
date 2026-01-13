@@ -21,7 +21,7 @@ Shutdown Timer adalah aplikasi Windows yang memungkinkan Anda untuk menjadwalkan
 ## 💾 Cara Install
 
 ### Download:
-📥 **[Download Shutdown Timer v1.0](https://github.com/xyukii/windows-shutdown-timer/blob/main/dist/ShutdownTimer_v1.0_Setup.zip)**
+📥 **[Download Shutdown Timer v1.0](https://github.com/xyukii/windows-shutdown-timer/raw/main/dist/ShutdownTimer_v1.0_Setup.zip)**
 
 ### Instalasi:
 1. Download file `ShutdownTimer_Setup.exe` dari link di atas
