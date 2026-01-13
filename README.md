@@ -20,9 +20,13 @@ Shutdown Timer adalah aplikasi Windows yang memungkinkan Anda untuk menjadwalkan
 
 ## 💾 Cara Install
 
+### Download:
+📥 **[Download Shutdown Timer v1.0](https://github.com/xyukii/windows-shutdown-timer/blob/main/dist/ShutdownTimer_v1.0_Setup.zip)**
+
 ### Instalasi:
-1. Download file `ShutdownTimer_Setup.exe`
-2. Double-click file installer
+1. Download file `ShutdownTimer_Setup.exe` dari link di atas
+2. Extract file ZIP yang telah didownload
+3. Double-click file installer
 3. Pilih lokasi instalasi (atau gunakan default: `C:\Program Files\Shutdown Timer`)
 4. Ikuti wizard instalasi
 5. Pilih apakah ingin shortcut di Desktop
